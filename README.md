@@ -31,6 +31,7 @@ Built with **Node.js** and powered by the **Alchemy Ethereum RPC API**.
 
 npm install
 
+---
 
 3. Edit the script and set your Alchemy API key:
 
